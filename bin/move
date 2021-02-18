@@ -16,4 +16,4 @@ index = input_to_index(input)
 
 move(board,index,value)
 
-
+display_board(board)
